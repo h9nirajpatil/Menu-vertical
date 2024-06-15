@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "watch:sass": "node-sass -w Creative layouts/Vertical-Menu/styles.scss"
+  },
+  "dependencies": {
+    "node-sass": "^9.0.0"
+  }
+}
